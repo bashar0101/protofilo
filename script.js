@@ -5,7 +5,6 @@
 
 (function () {
   "use strict";
-
   // ========================================
   // DOM Elements
   // ========================================
@@ -14,7 +13,6 @@
   const navMenu = document.getElementById("nav-menu");
   const navLinks = document.querySelectorAll(".nav-link");
   const contactForm = document.getElementById("contact-form");
-
   // ========================================
   // Navigation Scroll Effect
   // ========================================

@@ -687,6 +687,14 @@ img {
   background: linear-gradient(135deg, #2d1a2d 0%, #4a2d4a 50%, #2d1a2d 100%);
 }
 
+.project-5 {
+  background: linear-gradient(135deg, #2d1a2d 0%, #143458 50%, #2d1a2d 100%);
+}
+
+.project-6 {
+  background: linear-gradient(135deg, #2d1a2d 0%, #9c6f58 50%, #2d1a2d 100%);
+}
+
 .thumbnail-overlay {
   position: absolute;
   inset: 0;
